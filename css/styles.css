@@ -18,7 +18,7 @@ text-decoration: none;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: 0.54px;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4D5AE5;
 }
@@ -30,7 +30,7 @@ text-decoration: none;
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
     
 }
 .navigation .nav-items {
@@ -48,7 +48,7 @@ color: #404BBF;
     font-size: 16px;
         font-weight: 400;
         line-height: 24px;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
         font-style: normal;
     }
         .address .address-item{
@@ -70,7 +70,7 @@ color: var(--WHITE, #FFF);
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     line-height: 1.07;
 }
 .button{
@@ -78,7 +78,7 @@ color: var(--WHITE, #FFF);
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
-        letter-spacing: 0.64px;
+        letter-spacing: 0.04em;
             background: var(--IRIS, #4D5AE5);
             cursor: pointer;
             font-family: "Roboto", sans-serif;
@@ -92,7 +92,7 @@ color: var(--WHITE, #FFF);
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.05em;
 }
 
 .advantages-descrpt {
@@ -106,7 +106,7 @@ color: var(--WHITE, #FFF);
     text-align: center;
         font-size: 36px;
         font-weight: 700;
-        letter-spacing: 0.72px;
+        letter-spacing: 0.03em;
         text-transform: capitalize;
     color:#2e2f42;
 }
@@ -123,14 +123,14 @@ color: var(--WHITE, #FFF);
 .portfolio>p {
         font-size: 16px;
         line-height: 24px;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
 }
 .footer {
         background: var(--NAVY-BLUE, #2E2F42);
     color: #F4F4FD;
   font-size: 16px;
         line-height: 24px;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
 }
 .company-name-part-light{
     color: var(--CLOUD, #F4F4FD);
